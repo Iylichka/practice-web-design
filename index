@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">Шапка сайта</div>
+    <div class="col-sm-4">Левый блок</div>
+    <div class="col-sm-8">Основной блок</div>
+    <div class="clearfix"></div>    
+    <div class="col-sm-12">Подвал сайта</div>
+  </div>
+</div>
+</html>
